@@ -1,0 +1,5 @@
+C:\Users\anu\Desktop\Repro\ContinuousWebJob\publish\ContinuousWebJob.exe
+C:\Users\anu\Desktop\Repro\ContinuousWebJob\publish\ContinuousWebJob.dll
+C:\Users\anu\Desktop\Repro\ContinuousWebJob\publish\ContinuousWebJob.deps.json
+C:\Users\anu\Desktop\Repro\ContinuousWebJob\publish\ContinuousWebJob.runtimeconfig.json
+C:\Users\anu\Desktop\Repro\ContinuousWebJob\publish\ContinuousWebJob.pdb

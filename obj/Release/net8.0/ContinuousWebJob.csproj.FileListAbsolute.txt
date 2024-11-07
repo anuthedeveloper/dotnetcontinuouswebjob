@@ -1,0 +1,14 @@
+C:\Users\anu\Desktop\Repro\ContinuousWebJob\bin\Release\net8.0\ContinuousWebJob.exe
+C:\Users\anu\Desktop\Repro\ContinuousWebJob\bin\Release\net8.0\ContinuousWebJob.deps.json
+C:\Users\anu\Desktop\Repro\ContinuousWebJob\bin\Release\net8.0\ContinuousWebJob.runtimeconfig.json
+C:\Users\anu\Desktop\Repro\ContinuousWebJob\bin\Release\net8.0\ContinuousWebJob.dll
+C:\Users\anu\Desktop\Repro\ContinuousWebJob\bin\Release\net8.0\ContinuousWebJob.pdb
+C:\Users\anu\Desktop\Repro\ContinuousWebJob\obj\Release\net8.0\ContinuousWebJob.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anu\Desktop\Repro\ContinuousWebJob\obj\Release\net8.0\ContinuousWebJob.AssemblyInfoInputs.cache
+C:\Users\anu\Desktop\Repro\ContinuousWebJob\obj\Release\net8.0\ContinuousWebJob.AssemblyInfo.cs
+C:\Users\anu\Desktop\Repro\ContinuousWebJob\obj\Release\net8.0\ContinuousWebJob.csproj.CoreCompileInputs.cache
+C:\Users\anu\Desktop\Repro\ContinuousWebJob\obj\Release\net8.0\ContinuousWebJob.dll
+C:\Users\anu\Desktop\Repro\ContinuousWebJob\obj\Release\net8.0\refint\ContinuousWebJob.dll
+C:\Users\anu\Desktop\Repro\ContinuousWebJob\obj\Release\net8.0\ContinuousWebJob.pdb
+C:\Users\anu\Desktop\Repro\ContinuousWebJob\obj\Release\net8.0\ContinuousWebJob.genruntimeconfig.cache
+C:\Users\anu\Desktop\Repro\ContinuousWebJob\obj\Release\net8.0\ref\ContinuousWebJob.dll
